@@ -1,22 +1,25 @@
-# Hi there, I'm M. Irfan Akbar ðŸ‘‹
+# M. Irfan Akbar
 
-## ðŸš€ About Me
-I am an **AI/MLOps Engineer @Samsung**, dedicated to making research Large Language Models (LLMs) production-ready. I specialize in building high-throughput and memory-efficient inference engines and MLOps pipelines.
+**AI/MLOps Engineer at Samsung Electronics**
+*Hwaseong, South Korea*
 
-- ðŸŽ“ **M.Sc. in Computer Science** from **KAIST** (Korea Advanced Institute of Science and Technology), 2023â€“2025.
-- ðŸŽ“ **B.Sc. in Computer Science** from **KAIST**, 2018â€“2023.
-- ðŸ› ï¸ **Expertise:** AI/MLOps, LLM Inference, Data Mining, and Backend Engineering.
-- ðŸˆ **Kaggle:** [mirfana23 (Kucing Oren)](https://www.kaggle.com/mirfana23)
+I specialize in the intersection of Large Language Model (LLM) research and production-grade infrastructure. My work focuses on building high-performance inference engines and scalable MLOps pipelines to bring state-of-the-art models to real-world applications.
 
-## ðŸ› ï¸ Proficiencies
-- **Languages:** Python, C++, Java, SQL.
-- **Tools & Frameworks:** PyTorch, vLLM, Docker, Kubernetes, MLOps Tools.
-- **Interests:** LLM Optimization, Distributed Systems, and Scalable AI.
+### Technical Expertise
+*   **Infrastructure & MLOps:** LLM Serving (vLLM), Docker, Kubernetes, Distributed Systems.
+*   **Machine Learning:** Deep Learning, Data Mining, LLM Optimization (Quantization/Parallelism).
+-   **Engineering:** Python, C++, Java, System Design.
 
-## ðŸ“¬ Get in Touch
-- **Email:** [m.irfan.akbar@gmail.com](mailto:m.irfan.akbar@gmail.com)
-- **LinkedIn:** [linkedin.com/in/m-irfan-akbar/](https://www.linkedin.com/in/m-irfan-akbar/)
-- **GitHub (Personal/Academic):** [@mirfana23](https://github.com/mirfana23)
+### Education
+*   **M.Sc. in Computer Science**, KAIST (2023 - 2025)
+    *   Focus: Data Mining and AI Systems.
+*   **B.Sc. in Computer Science**, KAIST (2018 - 2023)
+
+### Experience & Research
+*   **Samsung Electronics** | AI/MLOps Engineer
+    *   Optimizzing LLM inference performance and production deployment.
+*   **KAIST Data Mining Lab** | Research Assistant
+    *   Conducted research on scalable data mining algorithms and AI applications.
 
 ---
-*â€œMaking research LLMs production-ready.â€*
+[LinkedIn](https://www.linkedin.com/in/m-irfan-akbar/) / [Email](mailto:m.irfan.akbar@gmail.com) / [mirfana.dev](https://mirfana.dev)
